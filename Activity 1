@@ -1,0 +1,48 @@
+**Small Model** 
+model name-LiquidAI/LFM2.5-2.6B
+model by-liquidAI
+model size-3B para
+tensor type -BF16
+
+Vocabulary size: 128,000
+Context length: 131,072 tokens
+language-multi language
+
+
+-its generative model 
+
+-its suitable for local execuation.
+
+-hardware stated in the model card .
+
+
+
+**Medium Model**
+model name-meta-models/Muse-Glimmer-30B
+model by- meta models
+model size-30B para
+tensor type- BF16
+Vocabulary size	202,048
+Context length	131,072+
+
+
+-its generative model 
+
+-its suitable for local execuation.
+
+-hardware stated in the model card .
+
+
+
+**Large Model**
+model name-jabbatheduck/DeepSeek-v4-flash-mini
+model by- jabbatheduck
+model size- 180B para
+tensor type- BF16
+
+
+-its generative model 
+
+-its suitable for local execuation.
+
+-hardware stated in the model card .
